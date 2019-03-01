@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CivilWar", "Exercice\CivilWar.csproj", "{0320CDB1-1E2F-4B45-83D8-7A6D9DE9124A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bat-Gadgets", "Bat-Gadgets\Bat-Gadgets.csproj", "{F5504652-5A0C-451F-8B14-76F060FC1F2D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatGadgets", "Bat-Gadgets\BatGadgets.csproj", "{F5504652-5A0C-451F-8B14-76F060FC1F2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
